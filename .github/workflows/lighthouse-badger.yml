@@ -55,6 +55,7 @@ jobs:
         with:
           repository: "myactionway/lighthouse-badges"
           path: temp_lighthouse_badges_nested
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: myactionway/lighthouse-badger-action@v2.2
         with:
           urls: ${{ env.URLS }}
