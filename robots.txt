@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Daksh.github.io/sitemap.xml
