@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Max Planck Institute for Polymer Research, Mainz, Germany.
+subtitle: "<a href='#'>Affiliations</a>. Max Planck Institute for Polymer Research, Mainz, Germany."
 
 profile:
   align: right
