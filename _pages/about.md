@@ -27,15 +27,18 @@ latest_posts:
 ---
 Hello, welcome to my homepage! 
 
-My name is Daksh, and I am a PhD student at the Max Planck Institute for Polymer Research (MPIP) in Mainz, working under the supervision of Prof. Katharina Landfester. I am currently in the final stage of my doctoral studies and will soon be defending my thesis.
+My name is Daksh, and I am working as doctoral student in the Electron Microscopy Group at Max Planck Institute for Polymer Research (MPIP) in Mainz, working under the supervision of Prof. Katharina Landfester and Dr. Ingo Lieberwirth. I am currently in the final stage of my doctoral studies and will soon be defending my thesis.
 
-My research focuses on automating Correlative Light and Electron Microscopy (CLEM) imaging using deep learning. As part of this work, I have submitted a patent application in collaboration with Max Planck Innovations. 
+For my doctroral studies, I worked on automating Correlative Light and Electron Microscopy (CLEM) imaging using deep learning. As part of this work, I have submitted a patent application in collaboration with Max Planck Innovations. 
+
+Main Focus 
+
+Daksh's research focuses on automated Correlative Light and Electron Microscopy (CLEM) using Deep Learning to identify intracellular nanoparticles. He is working on multi-resolution cross-modality image registration with automated image pre-processing using training free unsupervised deep learning. This project leads him to learn more about localization of events in biological image analysis and focusing in depth of intracellular nanostructures and nanotargets lying in the different bio-image datasets
+
+I am enthusiastic about advancing cutting-edge research in machine learning, particularly its applications in interactive bio/medical imaging and complex data analysis. I bring a solid computational foundation and specialized knowledge in domain adaptation, unsupervised and semi-supervised learning, as well as generative AI.
+
 For more details about my research, please visit my research interest{:target="_blank"} or Google Scholar{:target="_blank"} page.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Please feel free to drop an email if you have any queries.
 
 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
