@@ -10,5 +10,5 @@ nav_order: 5
 
 <img align=left src="/assets/img/DLCV_daksh.jpg" alt="" width="350"/>
 
-<img align=right src="/assets/img/DLCV_pdf.pdf" alt="" width="350"/>
+<img align=right src="/assets/img/DLCV_pdf.jpg" alt="" width="350"/>
 <br />
