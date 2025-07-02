@@ -27,13 +27,11 @@ latest_posts:
 ---
 Hello, welcome to my homepage! 
 
-My name is Daksh, and I am working as doctoral student in the Electron Microscopy Group at Max Planck Institute for Polymer Research (MPIP) in Mainz, working under the supervision of Prof. Katharina Landfester and Dr. Ingo Lieberwirth. I am currently in the final stage of my doctoral studies and will soon be defending my thesis.
+My name is Daksh, and I am working as doctoral student in the Electron Microscopy Group at Max Planck Institute for Polymer Research (MPIP) in Mainz, working under the supervision of Prof. Katharina Landfester and Dr. Ingo Lieberwirth. I am currently in the final stage of my doctoral studies and will be soon defending my thesis.
 
 For my doctroral studies, I worked on automating Correlative Light and Electron Microscopy (CLEM) imaging using deep learning. As part of this work, I have submitted a patent application in collaboration with Max Planck Innovations. 
 
-Main Focus 
-
-Daksh's research focuses on automated Correlative Light and Electron Microscopy (CLEM) using Deep Learning to identify intracellular nanoparticles. He is working on multi-resolution cross-modality image registration with automated image pre-processing using training free unsupervised deep learning. This project leads him to learn more about localization of events in biological image analysis and focusing in depth of intracellular nanostructures and nanotargets lying in the different bio-image datasets
+Daksh's research focuses on automated Correlative Light and Electron Microscopy (CLEM) using Deep Learning to identify intracellular nanoparticles. He is working on multi-resolution cross-modality image registration with automated image pre-processing using training free unsupervised deep learning. This project leads him to learn more about localization of events in biological image analysis and focusing in depth of intracellular nanostructures and nanotargets lying in the different bio-image datasets.
 
 I am enthusiastic about advancing cutting-edge research in machine learning, particularly its applications in interactive bio/medical imaging and complex data analysis. I bring a solid computational foundation and specialized knowledge in domain adaptation, unsupervised and semi-supervised learning, as well as generative AI.
 
