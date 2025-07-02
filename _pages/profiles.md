@@ -1,8 +1,8 @@
 ---
-layout: profiles
+layout: page
 permalink: /gallery/
 title: Gallery
-nav: true
+nav: gallery
 nav_order: 5
 ---
 **Deep Learning and Computer Vision (DLCV) Summer school, Genoa Italy**
