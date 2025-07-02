@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'> Max Planck Institute for Polymer Research, Mainz, Germany</a>.
 
@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Ackermannweg 10</p>
+    <p> Mainz, Germany 55128</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,6 +28,7 @@ latest_posts:
 Hello, welcome to my homepage! 
 
 My name is Daksh, and I am a PhD student at the Max Planck Institute for Polymer Research (MPIP) in Mainz, working under the supervision of Prof. Katharina Landfester. I am currently in the final stage of my doctoral studies and will soon be defending my thesis.
+
 My research focuses on automating Correlative Light and Electron Microscopy (CLEM) imaging using deep learning. As part of this work, I have submitted a patent application in collaboration with Max Planck Innovations. 
 For more details about my research, please visit my research interest{:target="_blank"} or Google Scholar{:target="_blank"} page.
 
