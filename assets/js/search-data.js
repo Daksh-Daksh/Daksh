@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-joined-max-planck-institute-for-polymer-research",
           title: 'Joined Max Planck Institute for Polymer Research.',
+          description: "",
+          section: "News",},{id: "news-presented-talk-on-multi-resolution-cross-modality-image-registration-using-unsupervised-deep-learning-approach-in-microscopy-and-microanalysis-conference-in-minneapolis-usa",
+          title: 'Presented talk on Multi-resolution Cross-modality Image Registration Using Unsupervised Deep Learning Approach in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
