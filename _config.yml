@@ -7,16 +7,16 @@ first_name: Daksh
 middle_name:
 last_name: Daksh
 contact_note: >
-  Feel free to reach me via email.
+  Feel free to drop a line via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The academic website of Daksh Daksh.
+  The academic website of Supriyo Naskar.
 footer_text: >
-keywords: academic-website, portfolio-website, daksh, mpip, indian # add your own keywords or leave empty
+keywords: academic-website, portfolio-website, daksh, max-planck, indian # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://Daksh.github.io # the base hostname & protocol for your site
-baseurl:
+url: https://Daksh-Daksh.github.io # the base hostname & protocol for your site
+baseurl:  
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -26,8 +26,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: radical # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -39,6 +39,8 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
+rss_icon: true
+
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -47,7 +49,6 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
 bib_search: true
 
 # Dimensions
@@ -64,13 +65,14 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: UA-163597289-1  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -83,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Daksh's personal blog # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics.
+blog_name: Daksh's blog # blog_name will be displayed in your blog page
+blog_description: only for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -93,27 +95,27 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
-# Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: title # identify discussions by post title
-  strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
-
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+## Giscus comments (RECOMMENDED)
+## Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
+#giscus:
+#  repo: # <your-github-user-name>/<your-github-repo-name>
+#  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+#  category: Comments # name of the category under which discussions will be created
+#  category_id: # leave empty or specify your category_id (see https://giscus.app/)
+#  mapping: title # identify discussions by post title
+#  strict: 1 # use strict identification mode
+#  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+#  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+#  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+#  emit_metadata: 0
+#  lang: en
+#
+## Disqus comments (DEPRECATED)
+#disqus_shortname: al-folio # put your disqus shortname
+## https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
@@ -125,7 +127,6 @@ external_sources:
     posts:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
         published_date: 2024-05-14
-
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
@@ -140,15 +141,14 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: false
   news:
     defaults:
       layout: post
-      output: true
+    output: true
     permalink: /:collection/:title/
   projects:
-    output: false
+    output: true
+    permalink: /:collection/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -185,9 +185,6 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
-  - _pages/projects.md
-  - _pages/books.md
-  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -198,7 +195,7 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives-v2
+  - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -232,7 +229,7 @@ sass:
 
 jekyll-minifier:
   compress_javascript: false # set to false since we are using terser as the js minifier
-  exclude: ["robots.txt", "assets/js/search/*.js"]
+  # exclude: ["robots.txt", "assets/js/search/*.js"]
 
 # -----------------------------------------------------------------------------
 # Terser
@@ -247,14 +244,15 @@ terser:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  posts:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-    permalinks:
-      year: "/blog/:year/"
-      tags: "/blog/:type/:name/"
-      categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  layouts:
+    year: archive-year
+    tag: archive-tag
+    category: archive-category
+  permalinks:
+    year: "/blog/:year/"
+    tag: "/blog/tag/:name/"
+    category: "/blog/category/:name/"
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
@@ -294,7 +292,7 @@ enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -376,7 +374,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
@@ -386,7 +384,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true  # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
@@ -547,12 +545,6 @@ third_party_libraries:
     url:
       js: "https://cdn.jsdelivr.net/npm/photoswipe@{{version}}/dist/photoswipe-lightbox.esm.min.js"
     version: "5.4.4"
-  plotly:
-    integrity:
-      js: "sha256-oy6Be7Eh6eiQFs5M7oXuPxxm9qbJXEtTpfSI93dW16Q="
-    url:
-      js: "https://cdn.jsdelivr.net/npm/plotly.js@{{version}}/dist/plotly.min.js"
-    version: "3.0.1"
   polyfill:
     url:
       js: "https://cdnjs.cloudflare.com/polyfill/v{{version}}/polyfill.min.js?features=es6"
