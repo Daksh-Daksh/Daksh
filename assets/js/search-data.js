@@ -139,11 +139,11 @@ ninja.data = [{
           window.open("https://github.com/Daksh-Daksh", "_blank");
         },
       },{
-        id: 'social-linkedin_id',
-        title: 'Linkedin_id',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/ddaksh/", "_blank");
         },
       },{
         id: 'social-orcid',
