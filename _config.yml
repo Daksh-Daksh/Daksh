@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The academic website of Supriyo Naskar.
 footer_text: >
-keywords: academic-website, portfolio-website, daksh, max-planck, indian # add your own keywords or leave empty
+keywords: academic-website, portfolio-website, daksh, max-planck, mpip, indian # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
