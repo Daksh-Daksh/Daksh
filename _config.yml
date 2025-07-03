@@ -15,7 +15,7 @@ keywords: academic-website, portfolio-website, daksh, max-planck, indian # add y
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://Daksh-Daksh.github.io # the base hostname & protocol for your site
+url: https://Daksh.github.io # the base hostname & protocol for your site
 baseurl:  
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -185,6 +185,9 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/books.md
+  - _pages/projects.md
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
