@@ -22,7 +22,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 Hello, welcome to my homepage!
 
 My name is Daksh, and I am working as doctoral student in the Electron Microscopy Group at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home){:target="_blank"} in Mainz, working under the supervision of Prof. Katharina Landfester and Dr. Ingo Lieberwirth. I am currently in the final stage of my doctoral studies and will be soon defending my thesis.
