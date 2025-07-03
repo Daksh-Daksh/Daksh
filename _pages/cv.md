@@ -9,4 +9,3 @@ description: For better idea of my academic profile and work experience in the p
 toc:
   sidebar: left
 ---
-
