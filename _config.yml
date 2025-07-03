@@ -141,13 +141,14 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+      output: true
+    permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -184,6 +185,9 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/projects.md
+  - _pages/books.md
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -260,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Daksh]
+  first_name: [Daksh]
 
   style: apa
   locale: en
