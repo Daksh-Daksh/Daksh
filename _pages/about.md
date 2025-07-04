@@ -34,4 +34,4 @@ I am enthusiastic about advancing cutting-edge research in machine learning, par
 
 For more details about my research, please visit my [research interest](https://daksh-daksh.github.io/publications/){:target="_blank"} or [Google Scholar](https://scholar.google.com/citations?user=D6JegN4AAAAJ&hl=en){:target="_blank"} page or my Max-Planck [personal webpage](https://www.mpip-mainz.mpg.de/person/122092/121045){:target="_blank"}.
 
-Please feel free to drop an [email](mailto:dakshgfsu@gmail.com) if you have any queries.
+Feel free to drop an [email](mailto:dakshgfsu@gmail.com) if you have any queries.
