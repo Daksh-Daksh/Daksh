@@ -32,6 +32,6 @@ Daksh's research focuses on automated Correlative Light and Electron Microscopy 
 
 I am enthusiastic about advancing cutting-edge research in machine learning, particularly its applications in interactive bio/medical imaging and complex data analysis. I bring a solid computational foundation and specialized knowledge in domain adaptation, unsupervised and semi-supervised learning, as well as generative AI.
 
-For more details about my research, please visit my [research interest](https://daksh-daksh.github.io/publications/){:target="_blank"} or [Google Scholar](https://scholar.google.com/citations?user=D6JegN4AAAAJ&hl=en){:target="_blank"} page or my Max-Planck personal [webpage](https://www.mpip-mainz.mpg.de/person/122092/121045){:target="_blank"}.
+For more details about my research, please visit my [research interest](https://daksh-daksh.github.io/publications/){:target="_blank"} or [Google Scholar](https://scholar.google.com/citations?user=D6JegN4AAAAJ&hl=en){:target="_blank"} page or my Max-Planck [personal webpage](https://www.mpip-mainz.mpg.de/person/122092/121045){:target="_blank"}.
 
 Please feel free to drop an [email](mailto:dakshgfsu@gmail.com) if you have any queries.
