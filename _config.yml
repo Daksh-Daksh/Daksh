@@ -7,7 +7,7 @@ first_name: Daksh
 middle_name:
 last_name: Daksh
 contact_note: >
-  "**Feel free to reach me via email or connect through LinkedIn.**" 
+  Feel free to reach me via email or connect through LinkedIn. 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The academic website of Daksh.
 footer_text: >
