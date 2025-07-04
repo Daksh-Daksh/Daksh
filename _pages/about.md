@@ -24,7 +24,7 @@ latest_posts:
 ---
 Hello, welcome to my homepage!
 
-My name is Daksh, and I am working as doctoral student in the Electron Microscopy Group at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home){:target="_blank"} in Mainz, working under the supervision of Prof. Katharina Landfester and Dr. Ingo Lieberwirth. I am currently in the final stage of my doctoral studies and will be soon defending my thesis.
+My name is Daksh, and I am working as doctoral student in the Electron Microscopy Group at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home){:target="_blank"} in Mainz, working under the supervision of [Prof. Katharina Landfester](https://www.mpip-mainz.mpg.de/en/landfester/director){:target="_blank"} and [Dr. Ingo Lieberwirth](https://www.mpip-mainz.mpg.de/en/landfester/groups/lieberwirth){:target="_blank"}. I am currently in the final stage of my doctoral studies and will be soon defending my thesis.
 
 For my doctroral studies, I worked on automating Correlative Light and Electron Microscopy (CLEM) imaging using deep learning. As part of this work, I have submitted a patent application in collaboration with Max Planck Innovations.
 
@@ -32,6 +32,6 @@ Daksh's research focuses on automated Correlative Light and Electron Microscopy 
 
 I am enthusiastic about advancing cutting-edge research in machine learning, particularly its applications in interactive bio/medical imaging and complex data analysis. I bring a solid computational foundation and specialized knowledge in domain adaptation, unsupervised and semi-supervised learning, as well as generative AI.
 
-For more details about my research, please visit my [research interest](https://Daksh.github.io/publications/){:target="_blank"} or [Google Scholar](https://scholar.google.com/citations?user=D6JegN4AAAAJ&hl=en){:target="_blank"} page.
+For more details about my research, please visit my [research interest](https://daksh-daksh.github.io/publications/){:target="_blank"} or [Google Scholar](https://scholar.google.com/citations?user=D6JegN4AAAAJ&hl=en){:target="_blank"} page or my Max-Planck personal [webpage](https://www.mpip-mainz.mpg.de/person/122092/121045){:target="_blank"}.
 
 Please feel free to drop an [email](mailto:dakshgfsu@gmail.com) if you have any queries.
